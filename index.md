@@ -1,32 +1,46 @@
-## Personal Information
+# Personal Information
 
-
-
-## Education
-* 2017.09 -  Beihang University
-* 2013-2017 UESTC
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+* Birthdate: 1995/5/17
+* Hometown: Linqing, Shandong Province, China
 
 # Education
-## Header 2
-### Header 3
 
-- Bulleted
-- List
+* 2017 - 2020 **M.S.**  Beihang University
+  * Major: Control Science and Engineering
+    * Advisor: Prof.Weihai Chen
+* 2013 - 2017 **B.S.**  University of Electronic Science and Technology of China
+  * Major:Mechanical and Automation Engineering
+    * GPA: 3.8/4.0 Rank: 17/280
 
-1. Numbered
-2. List
+# Honor
 
-**Bold** and _Italic_ and `Code` text
+* Outstanding Graduate of UESTC
+* Eminent Class Leader
+* Excellent Volunteer of Support Education
 
-[Link](url) and ![Image](src)
-```
+# Research Experience
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+* sEMG-based control method of rehabilitation robot
+  * 
+* sEMG-based motion recognition
+* Laser-based SLAM
+* "Gunner" Robot in the competition named Robomaters
+* Patrol Line Vihicle
+
+# Achievements
+
+* Final list of ICIEA2019
+
+  * Candidate for the best paper award
+
+* Automatic Packing Machine
+
+  * Patent()
+  * [Video](http://v.youku.com/v_show/id_XMTU2MzgyMTI0OA==.html?from=s1.8-1-1.2)
+
+* Champion of Robomasters 2015
+
+  
 
 ### Jekyll Themes
 
