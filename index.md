@@ -1,5 +1,5 @@
 # Personal Information
- ![image](https://github.com/Miracle-qi/miracle-qi.github.io/edit/master/picture.JPG) 
+ ![image](https://github.com/Miracle-qi/miracle-qi.github.io/blob/master/picture.JPG) 
 * Birthdate: 1995/5/17
 * Hometown: Linqing, Shandong Province, China
 
