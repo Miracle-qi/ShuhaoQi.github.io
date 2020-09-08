@@ -1,1 +1,15 @@
-theme: jekyll-theme-tactile
+title: Shuhao Qi
+position: Research Assistant
+affiliation: Southern University of Science and Technology
+email: qish (at) mail.sustech.edu.cn
+keywords: minimal academic
+# google_scholar: https://scholar.google.com/
+# github_link: https://github.com/yaoyao-liu/minimal-light
+# linkedin: https://www.linkedin.com/
+avatar: ./assets/img/DSC_9888.jpg
+# google_analytics: UA-111540567-4
+favicon: ./assets/img/robot_1.png
+favicon_dark: ./assets/img/favicon-dark.png
+description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+canonical: https://minimal-light.yyliu.net/
+remote_theme: yaoyao-liu/minimal-light
