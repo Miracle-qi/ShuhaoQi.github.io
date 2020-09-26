@@ -4,8 +4,8 @@ layout: homepage
 
 ## Research Interests
 
-- **Robot Control:** Optimal Control
-- **Robot Perception:** Signal Processing， Machine/Deep/Reinforcement Learning
+- **Robot Control and Decision Making:**: Optimal Control, Reinforcement Learning
+- **Robot Perception and Artificial Intelligence:** Signal Processing, Patern Recognition, Deep Learning
 
 ## Experience
 
@@ -15,7 +15,6 @@ layout: homepage
  <br>
   Principal Investigator: [Prof. Wei Zhang](https://www.wzhanglab.site/)
   - Project: Motion Control of Legged Robot 
-
 
 - **[Sep 2017 - Jan 2020] Beihang University**
   <br>
@@ -32,8 +31,6 @@ layout: homepage
   - Thesis: Laser-SLAM based on Iterative Closest Point and Graph Optimization
   
 
-  
-
 ## Publications
 
 - **sEMG-based recognition of composite motionwith convolutional neural network**
@@ -41,8 +38,7 @@ layout: homepage
   **Shuhao Qi**, Xingming Wu, Weihai Chen, Jianbin Zhang, Jianhua Wang
   <br>
   Sensors and Actuators, A: Physical (Q1, IF=2.904).
-  <br>
-  [[PDF](https://arxiv.org/pdf/2002.10211.pdf)] 
+  [[PDF](./assets/pdf/2020sEMG.pdf)] 
 
 - **Recognition of composite motions based on semg via deep learning**
   <br>
@@ -50,25 +46,21 @@ layout: homepage
   <br>
   14th IEEE Conference on Industrial Electronics and Applications (ICIEA 2019).
   <br>
-  [[PDF](http://papers.nips.cc/paper/9216-learning-to-self-train-for-semi-supervised-few-shot-classification.pdf)] [[Slides](https://people.mpi-inf.mpg.de/~yaliu/files/learning-to-self-train-poster.pdf)]
-
+ 
 - **Damping vibration analysis of adual-axis precision force sensor based on passive eddy current**
   <br>
   Xiantao Sun, Wenjie Chen, Weihai Chen, **Shuhao Qi**, Jun Jiang, Cungang Hu, Jun Tao
   <br>
   Journal of Physics D: Applied Physics.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
-
+ 
 - **Design and analysis of a large-rangeprecision micromanipulator**
   <br>
   Xiantao Sun, Wenjie Chen, Weihai Chen, **Shuhao Qi**, Wang Li, Cungang Hu, Jun Tao
   <br>
   Smart Materials and Structures.
   <br>
-  [[PDF](http://openaccess.thecvf.com/content_CVPR_2019/papers/Sun_Meta-Transfer_Learning_for_Few-Shot_Learning_CVPR_2019_paper.pdf)] [[Code](https://github.com/yaoyao-liu/meta-transfer-learning)] [[Project](https://mtl.yyliu.net/)] [[Poster](https://people.mpi-inf.mpg.de/~yaliu/files/meta-transfer-learning-poster.pdf)]
-
-
+ 
 
 ## Selected Projects
 
@@ -77,28 +69,23 @@ layout: homepage
 - Stairway Climbing of Quadruped Robot(Optimal Control, Jun. 2020–Present)
   <br>
   Extract environment information from depth camera and utilize MPC to make robot track the reference trajectory.
-
-
+  <br>
+  <div align=center>
+  <img width="50%" height="50%" src="./assets/img/stairClimbing.png"/>
 
 
 ### Rehabilitation Robot
-<details>
-<summary>sEMG-based Active Control of Rehabilitation Robot (Force Control, Jan. 2019–Jan. 2020)</summary>
+
+- sEMG-based Active Control of Rehabilitation Robot (Force Control, Jan. 2019–Jan. 2020)<br>
   Adjust the joint torque of the upper-limb rehabilitation robot according to the amplitude of sEMG signals.
-</details>
 
-<details>
-<summary>sEMG-based Motion Recognition (Deep Learning, Jun. 2018–Jan. 2019)</summary>
+
+
+- sEMG-based Motion Recognition (Deep Learning, Jun. 2018–Jan. 2019) <br>
   Transform sEMG signals into the defined “sEMG Images” and utilize CNN to classify corresponding motions.
-
-//https://ddddxxx.github.io/2017/08/21/insert-retina-image-in-md/
-![](./assets/img/SAAP2020QI.png)
-</details>
-
-
-
-
-
+  <br>
+  <div align=center>
+  <img width="70%" height="70%" src="./assets/img/sEMG2020.png"/>
 
 
 
