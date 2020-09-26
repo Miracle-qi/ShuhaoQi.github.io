@@ -11,9 +11,9 @@ layout: homepage
 
 - **[May 2020 - Present] Southern University of Science and Technology**
   <br>
-  Research Assistant in CLEAR Lab
+  Research Assistant in [CLEAR Lab](https://www.wzhanglab.site/)
  <br>
-  Principal Investigator: [Prof. Wei Zhang](https://www.wzhanglab.site/)
+  Principal Investigator: [Prof. Wei Zhang](https://www.wzhanglab.site/members/)
   - Project: Motion Control of Legged Robot 
 
 - **[Sep 2017 - Jan 2020] Beihang University**
