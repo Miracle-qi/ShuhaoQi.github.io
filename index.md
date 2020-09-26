@@ -78,15 +78,28 @@ layout: homepage
   <br>
   Extract environment information from depth camera and utilize MPC to make robot track the reference trajectory.
 
+
+
+
 ### Rehabilitation Robot
-
-- sEMG-based Active Control of Rehabilitation Robot (Force Control, Jan. 2019–Jan. 2020)
-  <br>
+<details>
+<summary>sEMG-based Active Control of Rehabilitation Robot (Force Control, Jan. 2019–Jan. 2020)</summary>
   Adjust the joint torque of the upper-limb rehabilitation robot according to the amplitude of sEMG signals.
+</details>
 
-- sEMG-based Motion Recognition (Deep Learning, Jun. 2018–Jan. 2019)
-  <br>
+<details>
+<summary>sEMG-based Motion Recognition (Deep Learning, Jun. 2018–Jan. 2019)</summary>
   Transform sEMG signals into the defined “sEMG Images” and utilize CNN to classify corresponding motions.
+
+//https://ddddxxx.github.io/2017/08/21/insert-retina-image-in-md/
+![](./assets/img/SAAP2020QI.png)
+</details>
+
+
+
+
+
+
 
 
 ### Wheeled Mobile Robot
