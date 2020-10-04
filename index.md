@@ -4,7 +4,7 @@ layout: homepage
 
 ## Research Interests
 
-- **Robot Control and Decision Making:**: Optimal Control, Reinforcement Learning
+- **Robot Control and Decision Making:** Optimal Control, Reinforcement Learning
 - **Robot Perception and Artificial Intelligence:** Signal Processing, Patern Recognition, Deep Learning
 
 ## Experience
@@ -44,7 +44,7 @@ layout: homepage
   <br>
   **Shuhao Qi**, Xingming Wu, Jianhua Wang, Jianbin Zhang
   <br>
-  14th IEEE Conference on Industrial Electronics and Applications (ICIEA 2019).
+  14th IEEE Conference on Industrial Electronics and Applications (ICIEA 2019). [[Slides](./assets/pdf/2020sEMG.pdf)] 
   <br>
  
 - **Damping vibration analysis of adual-axis precision force sensor based on passive eddy current**
@@ -68,21 +68,24 @@ layout: homepage
 
 - Stairway Climbing of Quadruped Robot(Optimal Control, Jun. 2020–Present)
   <br>
-  Extract environment information from depth camera and utilize MPC to make robot track the reference trajectory.
+We achieved stable motion control for quadruped robot with Model Predictive Control and further achieved stairway
+climbing with heuristic selection of foothold. In addition, We define a concise heightmap function to represent the
+stairway environment and propose a vision-based perception scheme that just need to extract stable information from
+environment to update environment in real time. This method has been simulated in Mujoco and will be fully tested on a real robot. This work is planned to submit to ICRA2021. [[Video](https://youtu.be/O0Z91_4_B5E)]
   <br>
   <div align=center>
-  <img width="50%" height="50%" src="./assets/img/stairClimbing.png"/>
+  <img width="40%" height="40%" src="./assets/img/stairClimbing.png"/>
 
 
 ### Rehabilitation Robot
 
 - sEMG-based Active Control of Rehabilitation Robot (Force Control, Jan. 2019–Jan. 2020)<br>
-  Adjust the joint torque of the upper-limb rehabilitation robot according to the amplitude of sEMG signals.
+In order to make people participate in rehabilitation exercise actively, I proposed a scenario which can adjust the joint torque of the upper-limb rehabilitation robot according to the amplitude of sEMG signals. [[Video](https://www.youtube.com/watch?v=8iSTeTxN6kQ)]
 
 
 
 - sEMG-based Motion Recognition (Deep Learning, Jun. 2018–Jan. 2019) <br>
-  Transform sEMG signals into the defined “sEMG Images” and utilize CNN to classify corresponding motions.
+Compared with currently intricate and limited methods, I proposed a simple, effective and general method which processed sEMG signals like the way of processing images via Convolutional Nerual Network. Through experiments, this method can help people effectively recognize general composite motion, such as handwriting motions and sign language motions.[[Video](https://www.youtube.com/watch?v=5tQSHg5Cdk8)]
   <br>
   <div align=center>
   <img width="70%" height="70%" src="./assets/img/sEMG2020.png"/>
@@ -93,24 +96,25 @@ layout: homepage
 
 - Laser-SLAM based on ICP and Graph Optimization (SLAM, Oct. 2016–Jun. 2017)
   <br>
-  Establish a scan-to-map ICP algorithm and utilize Least Square method to optimize graph after close-loop detection.
+Motivated by Cartography of Google, I established a scan-to-map Iterative Closest Point (ICP) algorithm based on triangulation and SVD algorithm. Additionally, least square method was used to optimize graph after close-loop detection. Through simulation, this method achieved excellent performance.
 - RoboMasters Competition (Embedded System, Mar. 2015–Jul. 2015)
   <br>
-  Design “Gunner” robot which can accurately hit the target from a long distance
+Representing UESTC to participate in this national competition organized by DJI, and taking charge of "Gunner" robot, which can accurately hit the target from a distance with the help of visual positioning.
 
 ### Artificial Intelligence
 - Tianchi Competition: Zero-Shot Detection (Transfer Learning, Sep. 2018–Nov. 2018)
   <br>
-  Use ResNet to extract visual features and combine semantic information to classify unseen categories.(Rank: 32/3225)
+We used ResNet to extract visual features from images and mapped them to semantic vectors in order to classify unseen categories through analysis of categorical attributes.(Rank: 32/3225)
 
 ### Automation Equipment
 - Control of Precision Micromanipulator (Signal Processing, Mar. 2019–Jun. 2019)
   <br>
-  Establish upper machine to control piezoceramics and process signals from multiple sensors.
+I established upper machine to control piezoceramics and processed signals from multiple sensors.
 
 - Automatic Packaging Machine (Embedded System, Feb. 2016–May 2016)
   <br>
-  Design an automatic machine for small merchants, which can fold the carton and seal tape automatically.
+Designed an automatic packaging machine for small merchants, which can fold the carton
+and seal tape automatically.[[Video](https://www.youtube.com/watch?v=MYVdqLGrYbs)]
 
 
 ## Awards

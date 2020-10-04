@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="53ce151b-fd38-47db-a1ce-f99cbe140822" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1i2g9bKIwPevkJEP0KsDw2TCv0I" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/assets/pdf" />
+    <property name="nodejs_package_manager_path" value="npm" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/assets/pdf" />
+      <recent name="$PROJECT_DIR$/assets/img" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53ce151b-fd38-47db-a1ce-f99cbe140822" name="Default Changelist" comment="" />
+      <created>1601110949631</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601110949631</updated>
+      <workItem from="1601110950805" duration="574000" />
+      <workItem from="1601111551452" duration="8054000" />
+    </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1601111006198</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1601111006198</updated>
+    </task>
+    <task id="LOCAL-00002" summary="update">
+      <created>1601133631470</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1601133631470</updated>
+    </task>
+    <task id="LOCAL-00003" summary="update">
+      <created>1601134317886</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1601134317886</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="580" y="122" width="912" height="889" key="CommitChangelistDialog2" timestamp="1601134317785">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="3092" y="97" width="912" height="911" key="CommitChangelistDialog2/2560.0.1920.1080/0.27.2560.1413@2560.0.1920.1080" timestamp="1601111006053" />
+    <state x="580" y="122" width="912" height="889" key="CommitChangelistDialog2/2560.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1601134317785" />
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl" timestamp="1601126956453">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="776" y="310" width="424" height="484" key="FileChooserDialogImpl/2560.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1601126956453" />
+    <state x="634" y="308" width="800" height="528" key="Vcs.Push.Dialog.v2" timestamp="1601134325107">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="3148" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/2560.0.1920.1080/0.27.2560.1413@2560.0.1920.1080" timestamp="1601111650500" />
+    <state x="634" y="308" width="800" height="528" key="Vcs.Push.Dialog.v2/2560.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1601134325107" />
+  </component>
+</project>
