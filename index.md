@@ -44,7 +44,7 @@ layout: homepage
   <br>
   **Shuhao Qi**, Xingming Wu, Jianhua Wang, Jianbin Zhang
   <br>
-  14th IEEE Conference on Industrial Electronics and Applications (ICIEA 2019). [[Slides](./assets/pdf/2020sEMG.pdf)] 
+  14th IEEE Conference on Industrial Electronics and Applications (ICIEA 2019). [[Slides](./assets/pdf/ICIEA.pdf)] 
   <br>
  
 - **Damping vibration analysis of adual-axis precision force sensor based on passive eddy current**
@@ -66,7 +66,8 @@ layout: homepage
 
 ### Quadruped Robot
 
-- Stairway Climbing of Quadruped Robot(Optimal Control, Jun. 2020–Present)
+- **Stairway Climbing of Quadruped Robot**(Optimal Control)<br>
+Jun. 2020–Present
   <br>
 We achieved stable motion control for quadruped robot with Model Predictive Control and further achieved stairway
 climbing with heuristic selection of foothold. In addition, We define a concise heightmap function to represent the
@@ -79,39 +80,46 @@ environment to update environment in real time. This method has been simulated i
 
 ### Rehabilitation Robot
 
-- sEMG-based Active Control of Rehabilitation Robot (Force Control, Jan. 2019–Jan. 2020)<br>
+- **sEMG-based Active Control of Rehabilitation Robot** (Force Control) <br>
+Jan. 2019–Jan. 2020  <br>
 In order to make people participate in rehabilitation exercise actively, I proposed a scenario which can adjust the joint torque of the upper-limb rehabilitation robot according to the amplitude of sEMG signals. [[Video](https://www.youtube.com/watch?v=8iSTeTxN6kQ)]
 
 
 
-- sEMG-based Motion Recognition (Deep Learning, Jun. 2018–Jan. 2019) <br>
+- **sEMG-based Motion Recognition** (Deep Learning) <br>
+Jun. 2018–Jan. 2019 <br>
 Compared with currently intricate and limited methods, I proposed a simple, effective and general method which processed sEMG signals like the way of processing images via Convolutional Nerual Network. Through experiments, this method can help people effectively recognize general composite motion, such as handwriting motions and sign language motions.[[Video](https://www.youtube.com/watch?v=5tQSHg5Cdk8)]
   <br>
   <div align=center>
-  <img width="70%" height="70%" src="./assets/img/sEMG2020.png"/>
+  <img width="90%" height="90%" src="./assets/img/sEMG2020.png"/>
 
 
 
 ### Wheeled Mobile Robot
 
-- Laser-SLAM based on ICP and Graph Optimization (SLAM, Oct. 2016–Jun. 2017)
+- **Laser-SLAM based on ICP and Graph Optimization** (SLAM)<br>
+ Oct. 2016–Jun. 2017
   <br>
 Motivated by Cartography of Google, I established a scan-to-map Iterative Closest Point (ICP) algorithm based on triangulation and SVD algorithm. Additionally, least square method was used to optimize graph after close-loop detection. Through simulation, this method achieved excellent performance.
-- RoboMasters Competition (Embedded System, Mar. 2015–Jul. 2015)
+- **RoboMasters Competition** (Embedded System)<br>
+ Mar. 2015–Jul. 2015
   <br>
 Representing UESTC to participate in this national competition organized by DJI, and taking charge of "Gunner" robot, which can accurately hit the target from a distance with the help of visual positioning.
 
 ### Artificial Intelligence
-- Tianchi Competition: Zero-Shot Detection (Transfer Learning, Sep. 2018–Nov. 2018)
+- **Tianchi Competition: Zero-Shot Detection** (Transfer Learning)<br>
+ Sep. 2018–Nov. 2018
   <br>
 We used ResNet to extract visual features from images and mapped them to semantic vectors in order to classify unseen categories through analysis of categorical attributes.(Rank: 32/3225)
 
 ### Automation Equipment
-- Control of Precision Micromanipulator (Signal Processing, Mar. 2019–Jun. 2019)
+- **Control of Precision Micromanipulator** (Signal Processing)<br>
+ Mar. 2019–Jun. 2019
   <br>
 I established upper machine to control piezoceramics and processed signals from multiple sensors.
 
-- Automatic Packaging Machine (Embedded System, Feb. 2016–May 2016)
+- **Automatic Packaging Machine** (Embedded System)<br>
+ Feb. 2016–May 2016
   <br>
 Designed an automatic packaging machine for small merchants, which can fold the carton
 and seal tape automatically.[[Video](https://www.youtube.com/watch?v=MYVdqLGrYbs)]
