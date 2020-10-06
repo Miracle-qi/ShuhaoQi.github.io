@@ -1,52 +1,4 @@
-<!DOCTYPE html>
-<html lang="en-US">
-  <head>
-    <title>Shuhao Qi | Southern University of Science and Technology</title>
-
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="This is Shuhao Qi's homepage.">
-    
-    <meta name="keywords" content="minimal academic">
-    
-    
-    <link rel="canonical" href="https://shuhao-qi.net/"/>
-    
-
-    <link rel="icon" media="(prefers-color-scheme:dark)" href="./assets/img/favicon-dark.png" type="image/png" />
-    <link rel="icon" media="(prefers-color-scheme:light)" href="./assets/img/robot_1.png" type="image/png" />
-    <script src="./assets/js/favicon-switcher.js" type="application/javascript"></script>
-
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/academicons/1.8.6/css/academicons.min.css integrity="sha256-uFVgMKfistnJAfoCUQigIl+JfUaP47GrRKjf6CTPVmw=" crossorigin=anonymous>
-    <link rel=stylesheet href=https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css integrity="sha256-+N4/V/SbAFiW1MPBCXnfnP9QSN3+Keu+NlB+0ev/YKQ=" crossorigin=anonymous>
-
-    <link rel="stylesheet" href="./assets/css/style.css">
-  </head>
-  <body>
-    <div class="wrapper">
-      <header>
-        
-        
-        <a class="image avatar"><img src="./assets/img/DSC_9888.jpg" alt="avatar" onContextMenu="return false" /></a>
-        
-
-        <h1>Shuhao Qi</h1> 
-        <p>
-        
-        Research Assistant
-        <br>
-        
-        Southern University of Science and Technology
-        <br>
-        
-        qish (at) mail.sustech.edu.cn</p>
-        
-
-      </header>
-      <section>
-
-      <h2 id="research-interests">Research Interests</h2>
+I"¢<h2 id="research-interests">Research Interests</h2>
 
 <ul>
   <li><strong>Robot Control and Decision Making:</strong> Optimal Control, Reinforcement Learning</li>
@@ -80,7 +32,7 @@ Advisor: <a href="https://dept3.buaa.edu.cn/szjs/zzjs/dgdzjxsyzx1/js/cwh.htm">Pr
 B.Eng. in Mechanical and Automation Engineering
 <br />
     <ul>
-      <li>GPA: 3.78/4.00, Rank: 12/280</li>
+      <li>GPA</li>
       <li>Thesis: Laser-SLAM based on Iterative Closest Point and Graph Optimization</li>
     </ul>
   </li>
@@ -210,26 +162,4 @@ I, as a member of robot team, represented my university to participate in this n
   <li>Invited Reviewer for IEEE Sensors Journal</li>
   <li>Invited Reviewer for ROBIO2018</li>
 </ul>
-
-
-      <br>
-
-      <p><small>Powered by Jekyll and <a href="https://github.com/yaoyao-liu/minimal-light" target="_blank" rel="noopener">Minimal Light</a> theme.</small></p>
-
-      </section>
-      <footer>
-        <div class="social-icons">
-
-          
-          
-          
-        </div>
-        <br>
-        <br>
-        <br>
-      </footer>
-    </div>
-    <script src="/assets/js/scale.fix.js"></script>
-    
-  </body>
-</html>
+:ET

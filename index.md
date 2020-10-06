@@ -28,6 +28,7 @@ layout: homepage
   <br>
   B.Eng. in Mechanical and Automation Engineering
   <br>
+  - GPA: 3.78/4.00, Rank: 12/280
   - Thesis: Laser-SLAM based on Iterative Closest Point and Graph Optimization
   
 
@@ -69,10 +70,7 @@ layout: homepage
 - **Stairway Climbing of Quadruped Robot**(Optimal Control)<br>
 Jun. 2020–Present
   <br>
-We achieved stable motion control for quadruped robot with Model Predictive Control and further achieved stairway
-climbing with heuristic selection of foothold. In addition, We define a concise heightmap function to represent the
-stairway environment and propose a vision-based perception scheme that just need to extract stable information from
-environment to update environment in real time. This method has been simulated in Mujoco and will be fully tested on a real robot. This work is planned to submit to ICRA2021. [[Video](https://youtu.be/O0Z91_4_B5E)]
+We achieved stable motion control for quadruped robots with Model Predictive Control and further achieved stairway climbing with heuristic selection of footholds. In addition,  we  defined  a  concise  heightmap  function  to  represent  the stairway  environment  and  proposed  a  vision-based  perception scheme  that  just  need  to  extract  stable  information  from environment to update environment in real time. This method has been simulated in Mujoco and will be fully tested on a real robot. This work is planned to submit to ICRA2021. [[Video](https://youtu.be/O0Z91_4_B5E)]
   <br>
   <div align=center>
   <img width="40%" height="40%" src="./assets/img/stairClimbing.png"/>
@@ -88,7 +86,7 @@ In order to make people participate in rehabilitation exercise actively, I propo
 
 - **sEMG-based Motion Recognition** (Deep Learning) <br>
 Jun. 2018–Jan. 2019 <br>
-Compared with currently intricate and limited methods, I proposed a simple, effective and general method which processed sEMG signals like the way of processing images via Convolutional Nerual Network. Through experiments, this method can help people effectively recognize general composite motion, such as handwriting motions and sign language motions.[[Video](https://www.youtube.com/watch?v=5tQSHg5Cdk8)]
+Compared with currently intricate and limited methods, the method I proposed is much simple, effective and general which processed sEMG signals like the way of processing images via Convolutional Neural Network. Results of experiments show that this method can help people effectively recognize general composite motion, such as handwriting motions and sign language motions.[[Video](https://www.youtube.com/watch?v=5tQSHg5Cdk8)]
   <br>
   <div align=center>
   <img width="90%" height="90%" src="./assets/img/sEMG2020.png"/>
@@ -100,7 +98,7 @@ Compared with currently intricate and limited methods, I proposed a simple, effe
 - **Laser-SLAM based on ICP and Graph Optimization** (SLAM)<br>
  Oct. 2016–Jun. 2017
   <br>
-Motivated by Cartography of Google, I established a scan-to-map Iterative Closest Point (ICP) algorithm based on triangulation and SVD algorithm. Additionally, least square method was used to optimize graph after close-loop detection. Through simulation, this method achieved excellent performance.
+Motivated by Cartography of Google, I established a scan-to-map Iterative Closest Point (ICP) algorithm based on triangulation and SVD algorithm. Additionally, least square method was used to optimize graph after close-loop detection. Simulation shows that this method achieved excellent performance.
 - **RoboMasters Competition** (Embedded System)<br>
  Mar. 2015–Jul. 2015
   <br>
@@ -110,7 +108,7 @@ Representing UESTC to participate in this national competition organized by DJI,
 - **Tianchi Competition: Zero-Shot Detection** (Transfer Learning)<br>
  Sep. 2018–Nov. 2018
   <br>
-We used ResNet to extract visual features from images and mapped them to semantic vectors in order to classify unseen categories through analysis of categorical attributes.(Rank: 32/3225)
+We utilized ResNet to extract visual features from images and mapped them to semantic vectors in order to classify unseen categories through analysis of categorical attributes.(Rank: 32/3225)
 
 ### Automation Equipment
 - **Control of Precision Micromanipulator** (Signal Processing)<br>
@@ -121,8 +119,7 @@ I established upper machine to control piezoceramics and processed signals from 
 - **Automatic Packaging Machine** (Embedded System)<br>
  Feb. 2016–May 2016
   <br>
-Designed an automatic packaging machine for small merchants, which can fold the carton
-and seal tape automatically.[[Video](https://www.youtube.com/watch?v=MYVdqLGrYbs)]
+I, as a member of robot team, represented my university to participate in this national competition organized by DJIand took charge of “Gunner” robot, which can accurately hit the target from a distance with the help of visualpositioning.[[Video](https://www.youtube.com/watch?v=MYVdqLGrYbs)]
 
 
 ## Awards
