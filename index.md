@@ -90,7 +90,7 @@ Jun. 2020–Nov. 2020
 We develop a simple yet effective framework tailored for autonomous quadrupedal stair climbing. By exploiting the prior knowledge about the staircase structure, the proposed strategy first extracts the geometric information about the staircase from the depth measurements. Then, the velocity and foothold references during stair climbing are generated via simple optimization algorithms based on the staircase information. Given these references, we use the model predictive control method to generate joint torques to complete the whole stair climbing task. Simulations in MuJoCo and real-world experiments on the real Aliengo robot demonstrate successful autonomous climbing of various staircases with different geometries. 
  <br>
   <div align=center>
-  <img width="40%" height="40%" src="./assets/img/stairClimbing.png"/>
+  <img width="60%" height="60%" src="./assets/img/display.png"/>
 
 
 ### Rehabilitation Robot
