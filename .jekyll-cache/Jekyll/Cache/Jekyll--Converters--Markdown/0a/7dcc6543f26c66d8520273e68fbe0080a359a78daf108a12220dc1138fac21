@@ -1,4 +1,4 @@
-I"è<h2 id="research-interests">Research Interests</h2>
+I"Û<h2 id="research-interests">Research Interests</h2>
 
 <ul>
   <li><strong>Robot Control and Decision Making:</strong> Optimal Control, Reinforcement Learning</li>
@@ -32,6 +32,7 @@ Advisor: <a href="https://dept3.buaa.edu.cn/szjs/zzjs/dgdzjxsyzx1/js/cwh.htm">Pr
 B.Eng. in Mechanical and Automation Engineering
 <br />
     <ul>
+      <li>GPA: 3.78/4.00, Rank: 12/280</li>
       <li>Thesis: Laser-SLAM based on Iterative Closest Point and Graph Optimization</li>
     </ul>
   </li>
@@ -40,6 +41,14 @@ B.Eng. in Mechanical and Automation Engineering
 <h2 id="publications">Publications</h2>
 
 <ul>
+  <li>
+    <p><strong>sEMG-based recognition of composite motionwith convolutional neural network</strong>
+<br />
+<strong>Shuhao Qi</strong>, Xingming Wu, Weihai Chen, Jianbin Zhang, Jianhua Wang
+<br />
+Sensors and Actuators, A: Physical (Q1, IF=2.904).
+[<a href="./assets/pdf/2020sEMG.pdf">PDF</a>]</p>
+  </li>
   <li>
     <p><strong>sEMG-based recognition of composite motionwith convolutional neural network</strong>
 <br />

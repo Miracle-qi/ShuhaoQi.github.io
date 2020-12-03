@@ -34,6 +34,13 @@ layout: homepage
 
 ## Publications
 
+- **Perceptive autonomous stair climbing for quadrupedal robots**
+  <br>
+  **Shuhao Qi\***, Wenchun Lin\*, Hua Chen\*, Zejun Hong\*, Wei Zhang
+  <br>
+  submitted to IEEE International Conference on Robotics and Automation (ICRA), 2021.
+  [[Video](https://youtu.be/AlnmMoJFpc4)] 
+
 - **sEMG-based recognition of composite motionwith convolutional neural network**
   <br>
   **Shuhao Qi**, Xingming Wu, Weihai Chen, Jianbin Zhang, Jianhua Wang
@@ -61,6 +68,16 @@ layout: homepage
   <br>
   Smart Materials and Structures.
   <br>
+  
+## Awards
+- **[Jun 2019]** Best Paper Finalist Certificate of ICIEA2019
+- **[Jun 2017]** Outstanding Graduate of UESTC
+- **[Jul 2015]** National First Prize & Best Technology Award of RoboMasters
+  
+  
+## Services
+- Invited Reviewer for IEEE Sensors Journal
+- Invited Reviewer for ROBIO2018 
  
 
 ## Selected Projects
@@ -68,10 +85,10 @@ layout: homepage
 ### Quadruped Robot
 
 - **Stairway Climbing of Quadruped Robot**(Optimal Control)<br>
-Jun. 2020–Present
+Jun. 2020–Nov. 2020
   <br>
-We achieved stable motion control for quadruped robots with Model Predictive Control and further achieved stairway climbing with heuristic selection of footholds. In addition,  we  defined  a  concise  heightmap  function  to  represent  the stairway  environment  and  proposed  a  vision-based  perception scheme  that  just  need  to  extract  stable  information  from environment to update environment in real time. This method has been simulated in Mujoco and will be fully tested on a real robot. This work is planned to submit to ICRA2021. [[Video](https://youtu.be/O0Z91_4_B5E)]
-  <br>
+We develop a simple yet effective framework tailored for autonomous quadrupedal stair climbing. By exploiting the prior knowledge about the staircase structure, the proposed strategy first extracts the geometric information about the staircase from the depth measurements. Then, the velocity and foothold references during stair climbing are generated via simple optimization algorithms based on the staircase information. Given these references, we use the model predictive control method to generate joint torques to complete the whole stair climbing task. Simulations in MuJoCo and real-world experiments on the real Aliengo robot demonstrate successful autonomous climbing of various staircases with different geometries. 
+ <br>
   <div align=center>
   <img width="40%" height="40%" src="./assets/img/stairClimbing.png"/>
 
@@ -122,12 +139,4 @@ I established upper machine to control piezoceramics and processed signals from 
 I, as a member of robot team, represented my university to participate in this national competition organized by DJIand took charge of “Gunner” robot, which can accurately hit the target from a distance with the help of visualpositioning.[[Video](https://www.youtube.com/watch?v=MYVdqLGrYbs)]
 
 
-## Awards
-- **[Jun 2019]** Best Paper Finalist Certificate of ICIEA2019
-- **[Jun 2017]** Outstanding Graduate of UESTC
-- **[Jul 2015]** National First Prize & Best Technology Award of RoboMasters
 
-
-## Services
-- Invited Reviewer for IEEE Sensors Journal
-- Invited Reviewer for ROBIO2018 

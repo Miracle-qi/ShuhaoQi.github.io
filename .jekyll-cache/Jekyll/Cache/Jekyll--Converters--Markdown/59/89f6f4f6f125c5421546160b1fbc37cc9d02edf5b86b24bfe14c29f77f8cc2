@@ -1,4 +1,4 @@
-I"­<h2 id="research-interests">Research Interests</h2>
+I"ä<h2 id="research-interests">Research Interests</h2>
 
 <ul>
   <li><strong>Robot Control and Decision Making:</strong> Optimal Control, Reinforcement Learning</li>
@@ -32,7 +32,7 @@ Advisor: <a href="https://dept3.buaa.edu.cn/szjs/zzjs/dgdzjxsyzx1/js/cwh.htm">Pr
 B.Eng. in Mechanical and Automation Engineering
 <br />
     <ul>
-      <li>GPA: 3.78/4.00</li>
+      <li>GPA: 3.78/4.00, Rank: 12/280</li>
       <li>Thesis: Laser-SLAM based on Iterative Closest Point and Graph Optimization</li>
     </ul>
   </li>
@@ -41,6 +41,14 @@ B.Eng. in Mechanical and Automation Engineering
 <h2 id="publications">Publications</h2>
 
 <ul>
+  <li>
+    <p><strong>Perceptive autonomous stair climbing for quadrupedal robots</strong>
+<br />
+<strong>Shuhao Qi</strong>, Wenchun Lin, Hua Chen, Zejun Hong, Wei Zhang
+<br />
+submitted to IEEE International Conference on Robotics and Automation (ICRA), 2021.
+[<a href="">Video</a>]</p>
+  </li>
   <li>
     <p><strong>sEMG-based recognition of composite motionwith convolutional neural network</strong>
 <br />

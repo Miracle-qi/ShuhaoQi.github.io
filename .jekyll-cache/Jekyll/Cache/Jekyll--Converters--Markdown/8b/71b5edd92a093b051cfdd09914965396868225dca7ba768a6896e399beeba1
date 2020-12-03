@@ -1,4 +1,4 @@
-I"»<h2 id="research-interests">Research Interests</h2>
+I"´<h2 id="research-interests">Research Interests</h2>
 
 <ul>
   <li><strong>Robot Control and Decision Making:</strong> Optimal Control, Reinforcement Learning</li>
@@ -42,6 +42,14 @@ B.Eng. in Mechanical and Automation Engineering
 
 <ul>
   <li>
+    <p><strong>Perceptive autonomous stair climbing for quadrupedal robots</strong>
+<br />
+<strong>Shuhao Qi*</strong>, Wenchun Lin*, Hua Chen*, Zejun Hong*, Wei Zhang
+<br />
+submitted to IEEE International Conference on Robotics and Automation (ICRA), 2021.
+[<a href="https://youtu.be/AlnmMoJFpc4">Video</a>]</p>
+  </li>
+  <li>
     <p><strong>sEMG-based recognition of composite motionwith convolutional neural network</strong>
 <br />
 <strong>Shuhao Qi</strong>, Xingming Wu, Weihai Chen, Jianbin Zhang, Jianhua Wang
@@ -72,6 +80,19 @@ Xiantao Sun, Wenjie Chen, Weihai Chen, <strong>Shuhao Qi</strong>, Wang Li, Cung
 <br />
 Smart Materials and Structures.
 <br /></p>
+
+    <h2 id="awards">Awards</h2>
+    <ul>
+      <li><strong>[Jun 2019]</strong> Best Paper Finalist Certificate of ICIEA2019</li>
+      <li><strong>[Jun 2017]</strong> Outstanding Graduate of UESTC</li>
+      <li><strong>[Jul 2015]</strong> National First Prize &amp; Best Technology Award of RoboMasters</li>
+    </ul>
+
+    <h2 id="services">Services</h2>
+    <ul>
+      <li>Invited Reviewer for IEEE Sensors Journal</li>
+      <li>Invited Reviewer for ROBIO2018</li>
+    </ul>
   </li>
 </ul>
 
@@ -81,10 +102,10 @@ Smart Materials and Structures.
 
 <ul>
   <li><strong>Stairway Climbing of Quadruped Robot</strong>(Optimal Control)<br />
-Jun. 2020â€“Present
+Jun. 2020â€“Nov. 2020
 <br />
-We achieved stable motion control for quadruped robots with Model Predictive Control and further achieved stairway climbing with heuristic selection of footholds. In addition,  we  defined  a  concise  heightmap  function  to  represent  the stairway  environment  and  proposed  a  vision-based  perception scheme  that  just  need  to  extract  stable  information  from environment to update environment in real time. This method has been simulated in Mujoco and will be fully tested on a real robot. This work is planned to submit to ICRA2021. [<a href="https://youtu.be/O0Z91_4_B5E">Video</a>]
-<br />
+We develop a simple yet effective framework tailored for autonomous quadrupedal stair climbing. By exploiting the prior knowledge about the staircase structure, the proposed strategy first extracts the geometric information about the staircase from the depth measurements. Then, the velocity and foothold references during stair climbing are generated via simple optimization algorithms based on the staircase information. Given these references, we use the model predictive control method to generate joint torques to complete the whole stair climbing task. Simulations in MuJoCo and real-world experiments on the real Aliengo robot demonstrate successful autonomous climbing of various staircases with different geometries. 
+ <br />
     <div align="center">
 <img width="40%" height="40%" src="./assets/img/stairClimbing.png" />
 
@@ -150,16 +171,4 @@ I, as a member of robot team, represented my university to participate in this n
   </li>
 </ul>
 
-<h2 id="awards">Awards</h2>
-<ul>
-  <li><strong>[Jun 2019]</strong> Best Paper Finalist Certificate of ICIEA2019</li>
-  <li><strong>[Jun 2017]</strong> Outstanding Graduate of UESTC</li>
-  <li><strong>[Jul 2015]</strong> National First Prize &amp; Best Technology Award of RoboMasters</li>
-</ul>
-
-<h2 id="services">Services</h2>
-<ul>
-  <li>Invited Reviewer for IEEE Sensors Journal</li>
-  <li>Invited Reviewer for ROBIO2018</li>
-</ul>
 :ET

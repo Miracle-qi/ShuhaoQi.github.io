@@ -9,7 +9,31 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="53ce151b-fd38-47db-a1ce-f99cbe140822" name="Default Changelist" comment="" />
+    <list default="true" id="53ce151b-fd38-47db-a1ce-f99cbe140822" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/0a/7dcc6543f26c66d8520273e68fbe0080a359a78daf108a12220dc1138fac21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/3b/7b406cd8a0328c5bdd0f7877b234548957bebc35841c2df609789c2a5f0ce4" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/43/7a231aa746122bdcb1dfca761d6c43e45460bbd6d4b57f9f0c9fcdf8137a81" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/53/1e8634845f6493c183ee977862a554783afa1bec5b0d83c776777558c35e1b" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/59/89f6f4f6f125c5421546160b1fbc37cc9d02edf5b86b24bfe14c29f77f8cc2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/99/6e37ba4873cd08739dbac5ba85989b88e44df405c010ab753d9e38d5c718c9" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9f/6dbcc1d9f83fd2e55bf16c34d21ecfbaba57ee9e570886eed163d8846ac575" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/ae/1eaf324f94090483734bd93ff8373b5cfb6fd313e56652df76b914915b33f5" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f5/eec21a41420210cf549560e64c11d281cce5c8318f10cfe54c9fccb57e383e" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/fa/f4e3259627a5dc6588f2aedcd3bda59739c6a17a4fc9e5da99bbf919f9f10a" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/16/1ff17512d932836e04a3137880e84aea3b954baeedc2b69570b58da7bb812c" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/50/26dee004843dc33a11b17b63661602d763c443066ae5a3709281a112db5a59" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/67/6fbcbce592f8e93ee6aa647e72e89e7665fc3165e1a6c4e009b6f4b0daf39d" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/8d/e12b83a6e314e83a801bb6919d3dc3bbd5b601e4d5cfad3588102685de81d6" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/99/f3efcc50c9d8d3500ff02449c516fff8a254b68323ab94ade5258295cb33a7" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9b/0ca63f01a90aa6e2180fa24c6756f0f8e617481eff5de58a12f879e1fd31e5" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/9f/fd802566ea03096fb6169790348dc5dc1ebb993f12b3d57d81f74e324da305" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/d4/92635a114b50e6b57ecaffcb091a9f25ca01c08416f76c95e094777dffb0d0" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/e0/6bdb49f5714929b96e3a4a2bbbc8db6c7c55dab6f8a465f6c8b9eb3ee89ebc" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.jekyll-cache/Jekyll/Cache/Jekyll--Converters--Markdown/f0/a54ed8f6ae005a425c585b4c799e38b58a162920afabbb00acea1dcc9b632f" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/index.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,13 +67,6 @@
       <recent name="$PROJECT_DIR$/assets/img" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration default="true" type="GradleAppRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" PASS_PARENT_ENVS_2="true">
-      <method v="2">
-        <option name="com.jetbrains.cidr.cpp.gradle.execution.GradleNativeBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
-      </method>
-    </configuration>
-  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -60,6 +77,7 @@
       <updated>1601110949631</updated>
       <workItem from="1601110950805" duration="574000" />
       <workItem from="1601111551452" duration="8054000" />
+      <workItem from="1606996269866" duration="1657000" />
     </task>
     <task id="LOCAL-00001" summary="update">
       <created>1601111006198</created>
@@ -108,5 +126,9 @@
     </state>
     <state x="3148" y="288" width="800" height="528" key="Vcs.Push.Dialog.v2/2560.0.1920.1080/0.27.2560.1413@2560.0.1920.1080" timestamp="1601111650500" />
     <state x="634" y="308" width="800" height="528" key="Vcs.Push.Dialog.v2/2560.0.1920.1080/67.27.1853.1053@67.27.1853.1053" timestamp="1601134325107" />
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup" timestamp="1606996394919">
+      <screen x="67" y="27" width="1853" height="1053" />
+    </state>
+    <state x="656" y="257" width="672" height="678" key="search.everywhere.popup/67.27.1853.1053@67.27.1853.1053" timestamp="1606996394919" />
   </component>
 </project>
