@@ -36,9 +36,9 @@ layout: homepage
 
 - **Perceptive autonomous stair climbing for quadrupedal robots**
   <br>
-  **Shuhao Qi\***, Wenchun Lin\*, Hua Chen\*, Zejun Hong\*, Wei Zhang
+  **Shuhao Qi\***, Wenchun Lin\*, Zejun Hong, Hua Chen, Wei Zhang
   <br>
-  submitted to IEEE International Conference on Robotics and Automation (ICRA), 2021.
+  submitted to The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
   [[Video](https://youtu.be/AlnmMoJFpc4)] 
 
 - **sEMG-based recognition of composite motionwith convolutional neural network**
@@ -51,7 +51,7 @@ layout: homepage
 - **Recognition of composite motions based on semg via deep learning**
   <br>
   **Shuhao Qi**, Xingming Wu, Jianhua Wang, Jianbin Zhang
-  <br>
+  <br>S
   14th IEEE Conference on Industrial Electronics and Applications (ICIEA 2019). [[Slides](./assets/pdf/ICIEA.pdf)] 
   <br>
  
