@@ -37,8 +37,7 @@ layout: homepage
 - **Perceptive autonomous stair climbing for quadrupedal robots**
   <br>
   **Shuhao Qi\***, Wenchun Lin\*, Zejun Hong, Hua Chen, Wei Zhang
-  <br>
-  submitted to The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
+  <br> The IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS), 2021.
   [[Video](https://youtu.be/AlnmMoJFpc4)] 
 
 - **sEMG-based recognition of composite motionwith convolutional neural network**
@@ -93,7 +92,7 @@ We develop a simple yet effective framework tailored for autonomous quadrupedal 
   <img width="60%" height="60%" src="./assets/img/display.png"/>
 
 
-### Rehabilitation Robot
+### sEMG-based Motion Recognition
 
 - **sEMG-based Active Control of Rehabilitation Robot** (Force Control) <br>
 Jan. 2019–Jan. 2020  <br>
@@ -121,18 +120,7 @@ Motivated by Cartography of Google, I established a scan-to-map Iterative Closes
   <br>
 Representing UESTC to participate in this national competition organized by DJI, and taking charge of "Gunner" robot, which can accurately hit the target from a distance with the help of visual positioning.
 
-### Artificial Intelligence
-- **Tianchi Competition: Zero-Shot Detection** (Transfer Learning)<br>
- Sep. 2018–Nov. 2018
-  <br>
-We utilized ResNet to extract visual features from images and mapped them to semantic vectors in order to classify unseen categories through analysis of categorical attributes.(Rank: 32/3225)
-
 ### Automation Equipment
-- **Control of Precision Micromanipulator** (Signal Processing)<br>
- Mar. 2019–Jun. 2019
-  <br>
-I established upper machine to control piezoceramics and processed signals from multiple sensors.
-
 - **Automatic Packaging Machine** (Embedded System)<br>
  Feb. 2016–May 2016
   <br>
