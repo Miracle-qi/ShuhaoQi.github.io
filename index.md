@@ -9,7 +9,13 @@ layout: homepage
 
 ## Experience
 
-- **[May 2020 - Present] Southern University of Science and Technology**
+- **[Oct 2021 - Present] Shanghai AI Lab**
+  <br>
+  Intern Student, waiting for Australian Visa
+ <br>
+  - Project: Decision Making for Autonomous Driving
+
+- **[May 2020 - Jul 2021] Southern University of Science and Technology**
   <br>
   Research Assistant in [CLEAR Lab](https://www.wzhanglab.site/)
  <br>
