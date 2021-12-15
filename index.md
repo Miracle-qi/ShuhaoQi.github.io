@@ -9,7 +9,7 @@ layout: homepage
 
 ## Experience
 
-- **[Oct 2021 - Present] Shanghai AI Lab**
+- **[Oct 2021 - Present] [Shanghai AI Lab](https://www.shlab.org.cn/)**
   <br>
   Intern Student, waiting for Australian Visa
  <br>
@@ -91,7 +91,7 @@ layout: homepage
 - **Decision Making for Autonomous Vehicle**(Reinforcemnet Learning)<br>
 Oct. 2021– Present
   <br>
-We plan to design a method to learns high-level driving decisions by imitating low-level control behaviors.
+We are trying to develop a method to learns high-level driving decisions by imitating low-level control behaviors.
  <br>
   <div align=center>
   <img width="60%" height="60%" src="./assets/img/autoDriving.gif"/>

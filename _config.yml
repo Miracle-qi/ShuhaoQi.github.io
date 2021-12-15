@@ -2,7 +2,7 @@ title: Shuhao Qi
 position: Ph.D. Studnet
 affiliation: University of Melbourne
 email: 	shuhao.qi (at) student.unimelb.edu.au
-keywords: minimal academic
+#keywords: minimal academic
 # google_scholar: https://scholar.google.com/
 # github_link: https://github.com/yaoyao-liu/minimal-light
 # linkedin: https://www.linkedin.com/
@@ -11,5 +11,5 @@ avatar: ./assets/img/DSC_9888.jpg
 favicon: ./assets/img/robot_1.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: This is Shuhao Qi's homepage.
-canonical: https://shuhao-qi.net/
+#canonical: https://shuhao-qi.net/
 # remote_theme: yaoyao-liu/minimal-light
