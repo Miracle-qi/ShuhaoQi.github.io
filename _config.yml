@@ -11,5 +11,5 @@ avatar: ./assets/img/DSC_9888.jpg
 favicon: ./assets/img/robot_1.png
 favicon_dark: ./assets/img/favicon-dark.png
 description: This is Shuhao Qi's homepage.
-#canonical: https://shuhao-qi.net/
+canonical: https://shuhao-qi.net/
 # remote_theme: yaoyao-liu/minimal-light
